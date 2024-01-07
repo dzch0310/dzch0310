@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zichao Dong</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="https://dzch0310.github.io/dzch0310/">Home</a></li>
+				<li><a href="/publication">Research</a></li>
+                <li><a href="/cv.pdf">CV</a></li>
+            </ul>
+        </nav>
+        <div class=”container”>
+            <div class=”blurb”>
+                <h1>Publications</h1>
+                <ul>
+                    <li>paper1</li>
+                    <li>paper2</li>
+                </ul>	
+            </div>
+        </div>
+        <footer>
+        <ul>
+            <li>Email: <a href=”mailto:zichao@ibs.re.kr”>zichao@ibs.re.kr</a></li>
+        </ul>
+        </footer>
+    </body>
+</html>
